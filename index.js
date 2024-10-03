@@ -7,3 +7,4 @@ const newHeader = document.createElement('h1');
 newHeader.id = 'victory';
 
 newHeader.innerHTML = "MO is the champion"
+
